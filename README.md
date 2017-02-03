@@ -14,3 +14,5 @@ The results has been shown on two publicly open corpus.
 2. Euron-spam corpus
 
 The link for corpus/dataset download is given in blog-post.
+
+Note : Directory path used for training and testing in lingspam_filter.py and euron-spamfilter.py needs to be properly set accordingly.
