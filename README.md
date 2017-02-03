@@ -13,6 +13,6 @@ The results has been shown on two publicly open corpus.
 1. Ling-spam corpus
 2. Euron-spam corpus
 
-The link for corpus/dataset download is given in blog-post.
+The link for corpus/dataset download is given in blog-post. Best thing would be to follow the blog-post for implementation.
 
-Note : Directory path used for training and testing in lingspam_filter.py and euron-spamfilter.py needs to be properly set accordingly.
+Note : Directory path used for training and testing models in lingspam_filter.py and euron-spamfilter.py needs to be properly set accordingly.
